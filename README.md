@@ -13,4 +13,4 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
-|[Example](https://twitter.com/wwdcscholars)|[GitHub]()|[Youtube]()|SwiftUI, Core ML|Submitted|
+|[Bryanza Novirahhman](https://twitter.com/bryanzanr?lang=en)|[GitHub](https://github.com/bryanzanr/go-cli)|[Youtube](https://www.youtube.com/channel/UC6tYL--Sb2t1-GfyHfS1O7Q)|SwiftUI|Submitted|
